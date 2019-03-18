@@ -22,3 +22,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ### add another one
 ### test stash
 ### ad test 1
+### ad test 2
+### ad test 3
