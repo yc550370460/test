@@ -18,6 +18,5 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 ### add one again
 ### add another one
-<<<<<<< Updated upstream
 ### test stash
 ### ad test 1
